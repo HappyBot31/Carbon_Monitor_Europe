@@ -40,7 +40,7 @@ CO2-Emissions-Europe/
 ├──  data/
 │     └── carbonmonitor-eu_datas.csv # Used Dataset
 ├──  images/                    # Saved plots and graphs
-├──  LICENSE 
+├──  LICENSE
 ├──  README.md                  # Project documentation 
 └──  carbon_monitor_analysis.ipynb   # Main Jupyter Notebook
 ```
