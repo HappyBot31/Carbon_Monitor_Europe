@@ -4,7 +4,7 @@ This project explores CO₂ emissions across European countries using real-world
 
 ## Dataset
 
-The dataset comes from **Carbon Monitor Europe** and contains daily CO₂ emissions by country and sector from 2019 to 2023.  
+The dataset comes from **Carbon Monitor Europe** and contains daily CO2 emissions by country and sector from 2019 to 2023.  
 It includes emissions from:
 - **Power**
 - **Industry**
@@ -29,7 +29,7 @@ Specifically, the this project asks and answers the following 3 Research Questio
 pip install pandas matplotlib seaborn
 ```
 ## Files:
-- `carbonmonitor-eu_datas.csv` dataset about daily CO₂ emissions across European countries, that can be downloaded and reserched from: https://figshare.com/articles/dataset/Carbon_Monitor_Europe_a_near-real-time_and_country-level_monitoring_of_daily_CO2_emissions_for_European_Union_and_the_United_Kingdom/20219024
+- `carbonmonitor-eu_datas.csv` dataset about daily CO2 emissions across European countries, that can be downloaded and reserched from: https://figshare.com/articles/dataset/Carbon_Monitor_Europe_a_near-real-time_and_country-level_monitoring_of_daily_CO2_emissions_for_European_Union_and_the_United_Kingdom/20219024
 - carbon_monitor_analysis.ipynb Original Jupyter Notebook file, needs Jupyter Notebooks installed: https://jupyter.org
 
 ## Project Structure:
@@ -45,7 +45,7 @@ CO2-Emissions-Europe/
 ```
 
 ## Visualizations Used
-- **Line plots:** Show trends in CO₂ emissions over time.
+- **Line plots:** Show trends in CO2 emissions over time.
 
 - **Bar plots:** Compare total emissions between countries or sectors.
 
@@ -61,7 +61,7 @@ CO2-Emissions-Europe/
 **RQ3:** Transport and power show the biggest changes. Residential stays stable. Aviation dropped in 2020 and is slowly rising again.<br/>
 
 ## Results long Version:
-**RQ1:** During 2020, when COVID-19 lockdowns were in place across Europe, there was a major drop in CO₂ emissions. This was most visible in the transport and aviation sectors, where emissions fell quickly as people stopped traveling, flights were canceled, and public transport was reduced.
+**RQ1:** During 2020, when COVID-19 lockdowns were in place across Europe, there was a major drop in CO2 emissions. This was most visible in the transport and aviation sectors, where emissions fell quickly as people stopped traveling, flights were canceled, and public transport was reduced.
 After lockdowns ended, emissions started to rise again in 2021 and 2022. This shows that although the pandemic caused a temporary drop, lasting change requires structural actions, like switching to clean energy and reducing dependence on fossil fuels — not just temporary shutdowns.<br/>
 
 **RQ2:** In the data, Germany is the biggest emitter in Europe, especially due to its power generation and industry sectors. France emits much less CO₂ from power because it uses nuclear energy, which doesn’t release carbon. Italy shows a more balanced distribution across sectors, including transport and residential use.
