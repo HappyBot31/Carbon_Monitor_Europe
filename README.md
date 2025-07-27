@@ -22,7 +22,6 @@ Specifically, the this project asks and answers the following 3 Research Questio
 - Jupyter Notebooks: https://jupyter.org
 - Python 3: https://www.python.org
 - Pandas: https://pandas.pydata.org
-- Numpy: https://numpy.org
 
 ### To run the notebook, install the required libraries:
 
